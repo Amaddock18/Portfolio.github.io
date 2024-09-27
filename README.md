@@ -5,5 +5,5 @@ My data science portfolio
 ### Project 1
 Link
 
-### Projct 2
+### Project 2
 Link
